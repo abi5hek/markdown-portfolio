@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I play basketball*
+
+**I like mexican food**
+
+
+_**and mediterreanean food i hope i spelled that right**_
